@@ -1,6 +1,6 @@
 # Book store Application 
 
-book store is created using flutter framwork. this app help to get only all technology books which can select any book to read. this first version of it. app consist from login page and home page and search page and category
+book store is created using flutter framwork. this app help to get only all technology books which can select any book to read. this first version of it. app consist from login page and home page and search page and category. 
 
 ## login page:
 
@@ -24,7 +24,17 @@ book store is created using flutter framwork. this app help to get only all tech
 
 ![Screenshot 2023-05-13 204806](https://github.com/MohamedAlaa987/Book_Store-_App-/assets/98977835/220987e7-daac-49c0-99de-99f1a6da1e23)
 
-## Getting Started
+
+
+## video for app:
+
+
+https://github.com/MohamedAlaa987/Book_Store-_App-/assets/98977835/90b04a7c-8481-40e2-817d-1e304b993814
+
+## Note:
+must use this api to get  any user which can use it username and password to login to app 
+https://fakestoreapi.com/users
+
 
 This project is a starting point for a Flutter application.
 
@@ -35,4 +45,8 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
+
+
+
+
 samples, guidance on mobile development, and a full API reference.
