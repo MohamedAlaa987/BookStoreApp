@@ -1,8 +1,44 @@
-# flutter_application_1
+# Book store Application 
 
-A new Flutter project.
+book store is created using flutter framwork. this app help to get only all technology books which can select any book to read. this first version of it. app consist from login page and home page and search page and category. 
 
-## Getting Started
+## login page:
+
+![Screenshot 2023-05-13 204351](https://github.com/MohamedAlaa987/Book_Store-_App-/assets/98977835/7d626a4d-6318-4ebc-98db-e648d46e4b0c)
+
+
+
+## home page:
+
+![Screenshot 2023-05-13 204608](https://github.com/MohamedAlaa987/Book_Store-_App-/assets/98977835/1aad1b87-5041-4c6a-bbe6-98a29c098db8)
+
+
+
+## search page:
+
+![Screenshot 2023-05-13 204735](https://github.com/MohamedAlaa987/Book_Store-_App-/assets/98977835/41c15f38-4e06-4fd5-a5df-c799d4c5d73c)
+
+
+
+## category:
+
+![Screenshot 2023-05-13 204806](https://github.com/MohamedAlaa987/Book_Store-_App-/assets/98977835/220987e7-daac-49c0-99de-99f1a6da1e23)
+
+
+
+## video for app:
+
+
+https://github.com/MohamedAlaa987/Book_Store-_App-/assets/98977835/90b04a7c-8481-40e2-817d-1e304b993814
+
+
+## Note:
+must use this api to get  any user which can use it username and password to login to app 
+https://fakestoreapi.com/users
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
@@ -13,4 +49,8 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
+
+
+
+
 samples, guidance on mobile development, and a full API reference.
